@@ -1,8 +1,10 @@
-Use Your arrows in order to be able to move through the game.
+How to run:
 
- 1- Left arrow.
- 2- Right arrow.
- 3- Up arrow.
- 4- Down arrow.
-
-if you hit the enemy, the game reset it setlf.
+    1- Open index.html in your browser.
+    2- Use the following controllers to control the player:
+        -Left Arrow.
+        -Right Arrow.
+        -Up Arrow.
+        -Down Arrow.
+    3- Try to avoid the enemies.
+    4- The games resets itself when you die.
