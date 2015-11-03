@@ -1,3 +1,5 @@
+![Screenshot](http://i.imgur.com/tCmfSzo.png)
+![Screenshot](http://i.imgur.com/HCn33dZ.png)
 How to run:
 
     1- Open index.html in your browser.
